@@ -1,0 +1,12 @@
+[NFrptWqRkXVO#0] ^Tempi/tempu<n><m><pl>$ ^fà/fà<vblex><inf>$ ^ùn/ùn<adv>/un<det><ind><m><sg>$ ^era/esse<vbser><pii><p1><sg>/esse<vbser><pii><p3><sg>$ ^micca/micca<adv>$ ^cusì/cusì<adv>$^./.<sent>$
+[/NFrptWqRkXVO]
+[QcwSiwT9mkq4#0] ^Hè/esse<vbser><pri><p3><sg>$ ^mortu/mortu<adj><m><sg>$ ^vinti/vene<vblex><pp><m><pl>/vince<vblex><pp><m><pl>/vinti<num><mf><sp>$ ^anni/annu<n><m><pl>$ ^fà/fà<vblex><inf>$^./.<sent>$
+[/QcwSiwT9mkq4]
+[XM2P5V9arDPJ#0] ^Mi/mi<prn><pro><p1><mf><sg>$ ^piace/piace<vblex><inf>/piace<vblex><pri><p3><sg>$ ^à/à<pr>/u<det><def><f><sg>$ ^cantà/cantà<vblex><inf>/cantà<vblex><pri><p3><sg>/cantà<vblex><imp><p2><sg>$^./.<sent>$
+[/XM2P5V9arDPJ]
+[bi4PlOOTDSxu#0] ^Faraghju/*Faraghju$ ^cusì/cusì<adv>$ ^sì/sì<cnjadv>/si<prn><pro><ref><p3><mf><sp>/si<prn><enc><ref><p3><mf><sp>$ ^tù/tù<prn><tn><p2><mf><sg>$ ^voli/vulè<vblex><pri><p2><sg>$^./.<sent>$
+[/bi4PlOOTDSxu]
+[gl0rdN5YGPqd#0] ^Ci/ci<prn><pro><adv>/ci<prn><enc><adv>/ci<prn><pro><p1><mf><pl>$ ^tocca/tuccà<vblex><pp><f><sg>/tuccà<vblex><pri><p3><sg>$ ^à/à<pr>/u<det><def><f><sg>$ ^fidià/fidià<vblex><inf>$ ^bè/bè<adv>$^./.<sent>$
+[/gl0rdN5YGPqd]
+[sAMx53wplZRV#0] ^Diteli/*Diteli$ ^ch'/chì<cnjsub>/chì<rel><an><mf><sp>$ ^ellu/ellu<prn><tn><p3><m><sg>$ ^venga/vene<vblex><prs><p1><sg>/vene<vblex><prs><p2><sg>/vene<vblex><prs><p3><sg>$^./.<sent>$
+[/sAMx53wplZRV]
